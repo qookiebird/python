@@ -2,7 +2,7 @@ import urllib.request
 import urllib.parse
 import json, math
 
-#블라블라블라
+#블라블라블라 아라라라라리요
 #해당 사이트에서 발급받은 키
 service_key ='41e3ac0a61bc585e45c4895e3f9bc484'
 
