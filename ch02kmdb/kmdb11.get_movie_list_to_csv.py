@@ -7,6 +7,7 @@ import json, math
 #아라랄랄라랄라
 #푸쉬푸쉬 베이베
 #다다다다다다다다 와 다다다다다다다다
+#우라라라라라라리리리리루룰레렐로로로
 service_key ='41e3ac0a61bc585e45c4895e3f9bc484'
 
 def getDataFromWeb(url):
