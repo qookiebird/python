@@ -5,6 +5,7 @@ import json, math
 #블라블라블라 아라라라라리요
 #해당 사이트에서 발급받은 키
 #아라랄랄라랄라
+#다다다다다다다다 와 다다다다다다다다
 service_key ='41e3ac0a61bc585e45c4895e3f9bc484'
 
 def getDataFromWeb(url):
