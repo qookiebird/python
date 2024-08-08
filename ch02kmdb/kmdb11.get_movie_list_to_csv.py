@@ -2,7 +2,7 @@ import urllib.request
 import urllib.parse
 import json, math
 
-# 화이팅!
+# 화이팅!!!!
 service_key ='41e3ac0a61bc585e45c4895e3f9bc484'
 
 def getDataFromWeb(url):
